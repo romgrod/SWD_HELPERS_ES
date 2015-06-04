@@ -1,8 +1,8 @@
 # encoding: utf-8
 
 def titulo_de_ventana
-    @browser.title
-  end
+  @browser.title
+end
 
 # Devuelve un array con todos los ids de las ventanas que están abiertas
 def ventanas_abiertas
